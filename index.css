@@ -340,6 +340,30 @@ h3{
     text-align: center;
 }
 
+.shops a{
+    display: block;
+    text-align: center;
+    color: #777;
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    font-family: 'comfortaa';
+    
+}
+.shops a::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.shops a:hover::after{
+    width: 10%;
+}
+
 /*------shopz Location.....*/
 
 .shopz-locations{
