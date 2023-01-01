@@ -181,11 +181,10 @@ h3{
 
 }
 
-/*------coffe-----*/
 
 
 
-.caffe{
+.organic-col{
     flex-basis: 32%;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -194,7 +193,7 @@ h3{
     
 }
 
-.caffe img{
+.organic-col img{
     width: 100%;
 }
 
