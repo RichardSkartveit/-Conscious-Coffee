@@ -4,6 +4,9 @@
     font-family: 'comfortaa';
 }
 
+.p {
+    font-size: 700;
+}
 
 .header{
     min-height: 100vh;
@@ -161,6 +164,8 @@ nav h1{
     
     }
     
+}
+
 
 /*---Organic coffe---*/
 .organiccoffe{
@@ -317,8 +322,10 @@ h3{
 
 .row{
     margin-top: 5%;
+    margin-left: 5%;
     display: flex;
     justify-content: space-between;
+    
     
 }
 
