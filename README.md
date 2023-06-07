@@ -6,20 +6,22 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+Concious coffe was a school assignment where i made a webside about Coffe shop.
 
-You can add some bullet points if you'd like to:
+It contains:
 
-- List item 1
-- List item 2
-- List item 3
+- a mainpage
+- a location page
+- about page
+- a List of choffe shop information
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+This project was build using:
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- HTML 5
+- CSS
+
 
 ## Getting Started
 
@@ -51,7 +53,7 @@ npm run start
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+As this being a school project, it is not open for contributions.
 
 ## Contact
 
@@ -67,4 +69,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+(noroff.no)
