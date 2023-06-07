@@ -35,12 +35,6 @@ This is where you list how to get the project started. It typically just include
 git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
 
-2. Install the dependencies:
-
-```
-npm install
-```
-
 ### Running
 
 Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
@@ -69,4 +63,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-(noroff.no)
+{Noroff.no](www.noroff.no)
