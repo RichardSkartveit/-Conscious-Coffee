@@ -63,4 +63,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-{Noroff.no](www.noroff.no)
+(www.noroff.no)
