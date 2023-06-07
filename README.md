@@ -55,7 +55,7 @@ This is where you can leave your social links for people to contact you, such as
 
 [My Github profile](https://github.com/RichardSkartveit)
 
-[My LinkedIn page][(www.linkedin.com)](https://www.linkedin.com/in/richard-skartveit-86913b1ba/)
+[My LinkedIn page](https://www.linkedin.com/in/richard-skartveit-86913b1ba/)
 
 ## License
 
