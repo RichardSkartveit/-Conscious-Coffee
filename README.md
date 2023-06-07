@@ -1,6 +1,6 @@
 # Conscious Coffee
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image]![image](https://github.com/RichardSkartveit/-Conscious-Coffee/assets/114581981/b8e41f4a-1820-49fe-93f7-4ab134a067b8)
 
 A simple overview of the use/purpose of the project.
 
