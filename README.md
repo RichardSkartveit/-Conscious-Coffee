@@ -32,7 +32,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone https://github.com/RichardSkartveit/-Conscious-Coffee
 ```
 
 ### Running
@@ -53,9 +53,9 @@ As this being a school project, it is not open for contributions.
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+[My Github profile](https://github.com/RichardSkartveit)
 
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page][(www.linkedin.com)](https://www.linkedin.com/in/richard-skartveit-86913b1ba/)
 
 ## License
 
@@ -63,4 +63,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-(www.noroff.no)
+[Noroff](www.noroff.no)
