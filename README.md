@@ -7,6 +7,8 @@ A simple overview of the use/purpose of the project.
 ## Description
 
 Concious coffe was a school assignment where i made a webside about Coffe shop.
+The coffe shop is for the customer who loves coffe, and who want's to know more in depth about
+the consept of Concious coffe. 
 
 It contains:
 
